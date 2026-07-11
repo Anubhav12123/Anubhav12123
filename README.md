@@ -10,19 +10,19 @@ Currently an **AI Engineer Intern at Asal** in Dubai, building multi-agent autom
 
 ## 🔨 Featured projects
 
-### ⚡ AlphaForge
+### ⚡ [AlphaForge](https://github.com/Anubhav12123/AlfaForge)
 ML alpha signal research and backtesting platform — **274x** backtest speedup via a vectorized C++ engine, with an HMM-based regime detector at **88.9%** accuracy across the 2008/2020/2022 crisis windows.
 `Python` `C++ (pybind11)` `LightGBM` `TimescaleDB` `FastAPI`
 
-### 🔁 NexusFeed
+### 🔁 [NexusFeed](https://github.com/Anubhav12123/nexusfeed)
 Real-time recommendation engine — two-tower PyTorch model + FAISS retrieval + LightGBM re-ranking, serving personalized feeds at **42ms p99** latency.
 `Python` `PyTorch` `Kafka` `FAISS` `Redis`
 
-### 🧠 ContextPilot
+### 🧠 [ContextPilot](https://github.com/Anubhav12123/ContextPilot)
 MCP-based codebase memory engine giving Claude Code and Cursor persistent project context across a CLI, MCP server, and VS Code extension. **+9.5%** Recall@5 improvement, indexes 800+ symbols in under 30s.
 `TypeScript` `Python` `MCP` `tree-sitter` `ChromaDB`
 
-### 🔍 OpenEvals
+### 🔍 [OpenEvals](https://github.com/Anubhav12123/openevals)
 Real-time LLM hallucination detection Chrome extension for ChatGPT, Claude, and Gemini — tracks 39 linguistic risk indicators with sub-second badge injection.
 `JavaScript` `Flask` `Chrome Extension API`
 
@@ -46,3 +46,4 @@ Real-time LLM hallucination detection Chrome extension for ChatGPT, Claude, and 
 
 - 📧 [dixitanu@msu.edu](mailto:dixitanu@msu.edu)
 - 💼 [linkedin.com/in/anubhav2275](https://linkedin.com/in/anubhav2275)
+- 🌐 [Portfolio](https://personal-website-gamma-one-74.vercel.app/)
